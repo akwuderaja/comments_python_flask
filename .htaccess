@@ -1,0 +1,5 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/irbegvav/comments.irb-e.com"
+PassengerBaseURI "/"
+PassengerPython "/home/irbegvav/virtualenv/comments.irb-e.com/3.9/bin/python"
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
